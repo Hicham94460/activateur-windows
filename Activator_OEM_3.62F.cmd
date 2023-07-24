@@ -215,7 +215,6 @@ if /i [!_errtmp!]==[1] call :install
 if /i [!_errtmp!]==[2] call :uninstall
 if /i [!_errtmp!]==[3] start "%systemroot%\notepad.exe" "!work!\bin\readme.txt"
 if /i [!_errtmp!]==[4] start "" https://forums.mydigitallife.net/threads/tool-ezwindslic-easily-activate-windows-7-vista-server-2008-2019-on-uefi-gpt.83357/
-if /i [!_errtmp!]==[5] start "" https://discord.gg/gyhtVhhwnN
 if /i [!_errtmp!]==[6] start "" https://github.com/Hicham94460
 if /i [!_errtmp!]==[7] call :toggleforce
 if /i [!_errtmp!]==[8] call :dispstat2usr
