@@ -33,7 +33,7 @@ if not exist "%systemroot%\temp" md "%systemroot%\temp" >nul 2>&1
 if exist "%systemroot%\temp\ezwork" rd "%systemroot%\temp\ezwork" /s /q >nul 2>&1
 md "%systemroot%\temp\ezwork" >nul 2>&1
 set "work=%systemroot%\temp\ezwork"
-title EzWindSLIC %uiver% by Hicham94460
+title Activator_OEM %uiver% by Hicham94460
 echo:
 mode con cols=83 lines=34
 :: Detect switches
@@ -177,7 +177,7 @@ if not defined install if not defined uninstall (
 echo:
 echo:
 echo:
-echo EzWindSLIC %uiver% by Hicham94460
+echo Activator_OEM %uiver% by Hicham94460
 echo          _______________________________________________________________
 echo         ^| Installation options:                                         ^|
 echo         ^|                          [I] Install                          ^|
@@ -188,8 +188,6 @@ echo         ^| Help and support:                                             ^|
 echo         ^|                          [R] Read-me                          ^|
 echo         ^|                                                               ^|
 echo         ^|                   [S] Support thread on MDL                   ^|
-echo         ^|                                                               ^|
-echo         ^|                       [X] Discord Server                      ^|
 echo         ^|                                                               ^|
 echo         ^|                        [G] Github repo                        ^|
 echo         ^|_______________________________________________________________^|
@@ -218,7 +216,7 @@ if /i [!_errtmp!]==[2] call :uninstall
 if /i [!_errtmp!]==[3] start "%systemroot%\notepad.exe" "!work!\bin\readme.txt"
 if /i [!_errtmp!]==[4] start "" https://forums.mydigitallife.net/threads/tool-ezwindslic-easily-activate-windows-7-vista-server-2008-2019-on-uefi-gpt.83357/
 if /i [!_errtmp!]==[5] start "" https://discord.gg/gyhtVhhwnN
-if /i [!_errtmp!]==[6] start "" https://www.github.com/Dir3ctr1x/EzWindSLIC
+if /i [!_errtmp!]==[6] start "" https://github.com/Hicham94460
 if /i [!_errtmp!]==[7] call :toggleforce
 if /i [!_errtmp!]==[8] call :dispstat2usr
 if /i [!_errtmp!]==[9] call :createoem
