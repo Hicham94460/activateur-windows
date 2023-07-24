@@ -5,7 +5,7 @@ Script facile à utiliser qui active Windows Vista/7 et Windows Server 2008(R2)/
 
 Ne fonctionne pas sur Windows 8/10/11
 
-Pour ces autres versions, voici un autre activateur : https://github.com/Hicham94460/Activator-microsoft
+Pour ces versions, voici un autre activateur : [here](https://github.com/Hicham94460/activateur-windows-8-10-11)
   
 
   
