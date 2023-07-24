@@ -59,125 +59,65 @@ Press [F] to toggle forceful mode.
 /force: Similar to Daz' loader's "Ignore existing SLIC". Install bootloader even if SLIC is present. This option also bypasses the error messages received if a SLIC unusable for activation is detected.
  
  # Frequently Asked Questions
-Q: Which operating systems are supported?
+Q: Quels sont les systèmes d'exploitation supportés ?
   
-A:
+R:
   
-Windows Vista Starter
+Windows Vista Starter / Home Basic & N / Home Premium / Business & N / Ultimate
+
+ 
+Windows 7 Starter & E / Home Basic / Home Premium & E / Professional & E / Ultimate & E
+
   
-Windows Vista Home Basic
+Windows Server 2008 Foundation / Standard / Enterprise / Enterprise without Hyper-V
+
   
-Windows Vista Home Basic N
+Windows Server 2008 R2 Standard / R2 Foundation / R2 Web / R2 Enterprise / R2 Datacenter
   
-Windows Vista Home Premium
+
+Windows Storage Server 2008 Standard / R2 Essentials
   
-Windows Vista Business
-  
-Windows Vista Business N
-  
-Windows Vista Ultimate
-  
-Windows 7 Starter
-  
-Windows 7 Starter E
-  
-Windows 7 Home Basic
-  
-Windows 7 Home Premium
-  
-Windows 7 Home Premium E
-  
-Windows 7 Professional
-  
-Windows 7 Professional E
-  
-Windows 7 Ultimate
-  
-Windows 7 Ultimate E
-  
-Windows Server 2008 Foundation
-  
-Windows Server 2008 Standard
-  
-Windows Server 2008 Enterprise
-  
-Windows Server 2008 Enterprise without Hyper-V
-  
-Windows Server 2008 R2 Foundation
-  
-Windows Server 2008 R2 Web
-  
-Windows Server 2008 R2 Standard
-  
-Windows Server 2008 R2 Enterprise
-  
-Windows Server 2008 R2 Datacenter
-  
-Windows Storage Server 2008 Standard
-  
-Windows Storage Server 2008 R2 Essentials
-  
+
 Windows Small Business Server 2008 Standard
   
-Windows Small Business Server 2011 Essentials
+
+Windows Small Business Server 2011 Essentials / 2011 Standard / Home Server 2011
   
-Windows Small Business Server 2011 Standard
+
+Windows Server 2012 Foundation / Web / Standard / Essentials / Datacenter
   
-Windows Home Server 2011
+
+Windows Multi-point Server 2012 Standard / Premium
   
-Windows Server 2012 Foundation
+
+Windows Storage Server 2012 Standard / Workgroup
   
-Windows Server 2012 Web
+
+Windows Server 2012 R2 Standard / Datacenter
   
-Windows Server 2012 Standard
-  
-Windows Server 2012 Essentials
-  
-Windows Server 2012 Datacenter
-  
-Windows Multi-point Server 2012 Standard
-  
-Windows Multi-point Server 2012 Premium
-  
-Windows Storage Server 2012 Standard
-  
-Windows Storage Server 2012 Workgroup
-  
-Windows Server 2012 R2 Standard
-  
-Windows Server 2012 R2 Datacenter
-  
+
 Windows Storage Server 2012 R2 Standard
   
-Windows Server 2016 Standard
+
+Windows Server 2016 Standard / Datacenter / Essentials
   
-Windows Server 2016 Datacenter
+
+Windows Storage Server 2016 Standard / Workgroup
   
-Windows Server 2016 Essentials
-  
-Windows Storage Server 2016 Standard
-  
-Windows Storage Server 2016 Workgroup
-  
+
 Windows Cloud Storage Server 2016
   
-Windows Server 2019 Standard
+
+Windows Server 2019 Standard / Datacenter / Essentials / Azure Stack HCI
   
-Windows Server 2019 Datacenter
-  
-Windows Server 2019 Essentials
-  
-Windows Server 2019 Azure Stack HCI
-  
-Windows Server 2022 Standard
-  
-Windows Server 2022 Datacenter
+
+Windows Server 2022 Standard / Datacenter
   
 
   
-Q: Which profile belongs to which company?
-  
-A: 
+Q: Les profils appartiennent à quelle entreprise ?
+
+R: 
   
 _ASUS_ - Asus
   
