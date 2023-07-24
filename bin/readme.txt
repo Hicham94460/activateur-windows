@@ -221,10 +221,3 @@ After that is done, exit cmd and press 'Next' on the setup screen, and then pres
 After a while you should see 'Corrupt boot configuration is detected bla bla bla'. Press 'Repair and restart'.
 
 Your PC should be able to boot again.
-
-[Credits]
-@nononsence (for bootloader and original WindSLIC)
-@FreeStyler for providing OEM:SLP keys used in script
-@Windows_Addict and @abbodi1406 for scripting ideas and great assistance in scripting
-@Sajjo for testing this tool
-@Tito for moving this to the MDL Projects and Applications forum, stickying it and helping in SLIC detection
