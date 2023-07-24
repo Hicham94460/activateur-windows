@@ -1,6 +1,8 @@
 # Overview
   
 Script facile à utiliser qui active Windows Vista/7 et Windows Server 2008(R2)/2012(R2)/2016/2019/2022 sur les systèmes UEFI-GPT utilisant la technique d’émulation SLIC.
+
+
 Ne fonctionne pas sur Windows 8/10/11
 
 Pour ces autres versions, voici un autre activateur : https://github.com/Hicham94460/Activator-microsoft
