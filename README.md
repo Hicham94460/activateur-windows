@@ -65,50 +65,66 @@ R:
   
 Windows Vista Starter / Home Basic & N / Home Premium / Business & N / Ultimate
 
+
  
 Windows 7 Starter & E / Home Basic / Home Premium & E / Professional & E / Ultimate & E
 
+
   
 Windows Server 2008 Foundation / Standard / Enterprise / Enterprise without Hyper-V
+
 
   
 Windows Server 2008 R2 Standard / R2 Foundation / R2 Web / R2 Enterprise / R2 Datacenter
   
 
+
 Windows Storage Server 2008 Standard / R2 Essentials
+
   
 
 Windows Small Business Server 2008 Standard
+
   
 
 Windows Small Business Server 2011 Essentials / 2011 Standard / Home Server 2011
+
   
 
 Windows Server 2012 Foundation / Web / Standard / Essentials / Datacenter
+
   
 
 Windows Multi-point Server 2012 Standard / Premium
+
   
 
 Windows Storage Server 2012 Standard / Workgroup
   
 
+
 Windows Server 2012 R2 Standard / Datacenter
   
+
 
 Windows Storage Server 2012 R2 Standard
   
 
+
 Windows Server 2016 Standard / Datacenter / Essentials
+
   
 
 Windows Storage Server 2016 Standard / Workgroup
   
 
+
 Windows Cloud Storage Server 2016
   
 
+
 Windows Server 2019 Standard / Datacenter / Essentials / Azure Stack HCI
+
   
 
 Windows Server 2022 Standard / Datacenter
